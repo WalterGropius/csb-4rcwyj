@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://waltergropius.github.io/csb-4rcwyj/static/css/main.1bc5481b.css",
+    "main.js": "https://waltergropius.github.io/csb-4rcwyj/static/js/main.7f9035b7.js",
+    "index.html": "https://waltergropius.github.io/csb-4rcwyj/index.html",
+    "main.1bc5481b.css.map": "https://waltergropius.github.io/csb-4rcwyj/static/css/main.1bc5481b.css.map",
+    "main.7f9035b7.js.map": "https://waltergropius.github.io/csb-4rcwyj/static/js/main.7f9035b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc5481b.css",
+    "static/js/main.7f9035b7.js"
+  ]
+}
